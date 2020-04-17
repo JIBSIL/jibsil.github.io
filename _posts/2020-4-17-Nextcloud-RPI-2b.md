@@ -1,9 +1,16 @@
 ---
 layout: post
 title: Will it run - Nextcloud on Raspberry Pi 2b
+categories: [raspberrypi, nextcloud, software, hardware, project]
+tags: [raspberrypi, nextcloud, easy]
 ---
 <!--more-->
 Kano - Powered by the Raspberry Pi 2B. Probably the worst $150 that can be spent. In hindsight, a 512mb computer that runs at a *700 MHz* base clock probably wasn't such a good idea for any sort of GUI application. I had no idea how to overclock at the time, so I was left with a bulky case and a "computer" that is only useful as a paperweight. However, I'll save that rant for another day. It looks as if I finally have found a use for this excuse for a computer. Today, I am going to be sharing my experience with using the Raspberry Pi 2B for a Nextcloud server.
 <!--more-->
 
-Some stuff after Read More
+The disclaimer bit: I just want to say that your mileage may vary (with any section of this) due to special conditions that I try to put my Raspberry Pi 2 in to optimize performance.
+
+OK, now to using the Pi. I have a bunch of Micro SD cards laying around, so I flashed 
+
+### Time to completion: ~10 hours
+### Difficulty: 3/10
