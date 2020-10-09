@@ -1,0 +1,15 @@
+---
+layout: post
+title: Whitby Publishing Website
+---
+# Welcome to the Whitby Publishing Website Guide!
+
+# 1. [The Website] (publishing-test.crystalvms.com)
+The website will always be up at https://publishing-test.crystalvms.com .
+# 2. Accessing the Website Files
+You can use Cyberduck (cyberduck.io) or FileZilla (filezilla-project.org)
+You can access the website using the protocol SFTP. Connect to 173.3.144.177:2222 with username `jibsil` and password ``
+
+# Conclusion:
+### Time to completion: ~1 hour
+### Difficulty: 1/10
